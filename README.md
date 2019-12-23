@@ -21,10 +21,8 @@ LabelTool
 
 Environment
 ----------
-- python 2.7
-- python PIL (Pillow)
-- python-imaging-tk (https://www.pythonware.com/products/pil/) //windows
-- python-tk (https://tkdocs.com/tutorial/install.html) // windows
+- python 2.7 (https://www.python.org/ftp/python/2.7.8/python-2.7.8.amd64.msi)
+- python PIL (Pillow) (https://pypi.python.org/packages/2.7/P/Pillow/Pillow-2.5.3.win-amd64-py2.7.exe#md5=33c3a581ff1538b4f79b4651084090c8)
 
 Run
 -------
